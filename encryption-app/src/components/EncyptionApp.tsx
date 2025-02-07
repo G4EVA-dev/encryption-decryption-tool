@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { encrypt, decrypt } from "../utils/encryptionUtils";
+import { encrypt, decrypt } from "../utils/encryptionUtils.ts";
 
 const EncryptionApp: React.FC = () => {
   const [inputText, setInputText] = useState("");
