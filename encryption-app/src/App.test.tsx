@@ -1,5 +1,5 @@
 import { render, screen, fireEvent } from "@testing-library/react";
-import EncryptionApp from "../components/EncryptionApp";
+import EncryptionApp from "./components/EncyptionApp";
 
 describe("EncryptionApp", () => {
   test("renders input fields, buttons, and output areas", () => {

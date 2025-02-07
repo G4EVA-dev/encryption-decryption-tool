@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import { encrypt } from "../utils/encrypt.ts";
-import { decrypt } from "../utils/decrypt.ts";
+import { encrypt } from "../utils/encrypt";
+import { decrypt } from "../utils/decrypt";
 import {
   Container,
   Paper,

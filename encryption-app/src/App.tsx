@@ -1,5 +1,4 @@
-import React from "react";
-import EncryptionApp from "../src/components/EncyptionApp.tsx";
+import EncryptionApp from "../src/components/EncyptionApp";
 
 const App: React.FC = () => {
   return (
