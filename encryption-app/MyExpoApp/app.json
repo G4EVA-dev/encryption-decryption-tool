@@ -16,7 +16,6 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "packageType": "apk",
       "package": "com.glenzzy101.MyExpoApp"
     },
     "web": {
